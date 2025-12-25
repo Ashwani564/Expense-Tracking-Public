@@ -1,0 +1,735 @@
+date,description,amount,category,card,source,label
+2025-01-05,SIMPLE BILLS 254-230-0199 TX,18.97,Services,Discover,Discover-2025-YearToDateSummary.csv,Electricity
+2025-01-06,AMAZON PRIME*ZP0UK85G1 AMZN.COM/BILLWA4VUCCXOS94K,8.01,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Prime
+2025-01-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-01-10,VIRGIN ATLANTIC,198.16,Airfare,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Flight (Virgin Atlantic)
+2025-01-10,GOOGLE *YOUTUBE G.CO/HELPPAY#CAP185F5DQ,11.76,Services,Discover,Discover-2025-YearToDateSummary.csv,YouTube Premium
+2025-01-10,BOOTS 2253,3.08,Health Care,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Boots (UK Pharmacy)
+2025-01-11,BOOTS 2253 HOUNSLOW GBR6.00 @ 00000001.2166667 GBP,7.3,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Boots (UK Pharmacy)
+2025-01-11,TAXI SHOP CAFÉ,9.12,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Taxi Shop Café
+2025-01-11,WH Smith Heathrow T3,6.15,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,WHSmith (Airport)
+2025-01-11,NYX*PGGroup,3.08,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Dining
+2025-01-11,BOOTS 2253,1.85,Health Care,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Boots (UK Pharmacy)
+2025-01-11,BUC-EE'S #43,3.79,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-01-12,AMAZON.COM*Z559L9782 AMZN.COM/BILLWA2UIU5Y88QEA,15.61,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-01-12,AMAZON.COM*ZD6555YL0 AMZN.COM/BILLWA12PTH3XL636,93.45,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-01-12,PAYPAL *HCC MEDICAL 888-221-1161 CA,36.0,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Medical Payment
+2025-01-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-01-16,MSU STUDENT HEALTH CENTE MISSISSIPPI SMS,2.6,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,MSU Health Center
+2025-01-19,WALMART.COM 8009256278 BENTONVILLE AR,57.86,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-01-20,WALMART.COM 8009256278 BENTONVILLE AR,5.09,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-01-23,SHELL52376960036 STARKVILLE MS,3.52,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-01-24,CTLP*Refreshments Inc,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-01-27,WALMART.COM 800-925-6278 AR,44.84,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-01-28,CTLP*Refreshments Inc,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-01-28,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-01-28,WM SUPERCENTER #112,24.54,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-01-29,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-01-29,CTLP*REFRESHMENTS INC CORINTH MS,1.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-01-29,ETT*HANGOUTDACARENT,50.0,Other Services,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Other Services
+2025-01-30,CTLP*REFRESHMENTS INC CORINTH MS,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-01-30,SHELL52376960036 STARKVILLE MS,3.52,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-01-31,AMK MSU EINSTEINS BROS B MISSISSIPPI SMS,2.34,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-01-31,DD *DOORDASH BUFFALOWI 6506819470 CA,18.79,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,DoorDash
+2025-01-31,DD *DOORDASH TACOBELL 6506819470 CA,6.47,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,DoorDash
+2025-01-31,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-01-31,PAYPAL *MICROSOFT 888-221-1161 CA,1.06,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Microsoft
+2025-02-02,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-02-02,WALMART.COM 8009256278 BENTONVILLE AR,75.02,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-02-03,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-02-03,CTLP*REFRESHMENTS INC CORINTH MS,4.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-02-04,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-02-04,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-02-04,AMK MSU EINSTEINS BROS B MISSISSIPPI SMS,4.27,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-02-06,AMAZON PRIME*Z787L9KV0 AMZN.COM/BILLWAFB37ZZP8MOF,8.01,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Prime
+2025-02-06,AMK MSU PANDA EXPRESS MISSISSIPPI SMS,8.88,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-02-06,GOOGLE *GOOGLE ONE 855-836-3987 CAP18KNCW1,18.99,Services,Discover,Discover-2025-YearToDateSummary.csv,Google One
+2025-02-07,WALMART STORE 00112 STARKVILLE MS,46.73,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-02-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-02-07,KROGER #381 STARKVILLE MS,16.04,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Grocery (Kroger)
+2025-02-07,SHELL52376960036 STARKVILLE MS,3.52,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-02-09,CTLP*Refreshments Inc,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-09,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-10,GOOGLE COLAB MOUNTAIN VIEWCA,9.99,Services,Discover,Discover-2025-YearToDateSummary.csv,API Costs (Google Colab)
+2025-02-12,SHELL52376960036 STARKVILLE MS,3.52,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-02-13,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-02-13,CTLP*Refreshments Inc,4.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-14,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-02-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-02-15,WALMART.COM 8009256278 BENTONVILLE AR,58.74,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-02-15,DD *DOORDASH BUFFALOWI 6506819470 CA,19.29,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,DoorDash
+2025-02-18,AMK MSU EINSTEINS BROS B MISSISSIPPI SMS,2.34,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-02-18,CTLP*Refreshments Inc,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-18,CTLP*Refreshments Inc,3.5,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-20,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-02-20,CTLP*Refreshments Inc,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-21,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-02-21,AMK MSU POD UNION,8.54,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-22,DD *DOORDASHDOUBLEDASH 6506819470 CA,28.21,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,DoorDash
+2025-02-22,WALMART.COM 8009256278 BENTONVILLE AR,49.86,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-02-23,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-02-23,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-02-23,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-23,CTLP*Refreshments Inc,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-24,CTLP*Refreshments Inc,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-25,CTLP*Refreshments Inc,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-25,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-26,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-26,CTLP*Refreshments Inc,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-26,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-02-26,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-02-27,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-27,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-02-27,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-27,AMK MSU EINSTEINS BROS,3.2,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-27,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-28,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-28,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-02-28,CHEVRON 0202359,2.88,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-01,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-03-03,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-03,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-04,SHELL OIL 523769600QPS,7.56,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-04,WALMART.COM 800-925-6278 AR,53.11,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-03-05,AMK POD HATHORN,2.56,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-05,AMK MSU POD DOGWOOD PO,2.24,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-06,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-06,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-06,SIMPLE BILLS 254-230-0199 TX,23.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Electricity
+2025-03-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-03-08,DD *DOORDASH BUFFALOWI 6506819470 CA,19.29,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,DoorDash
+2025-03-09,WALMART.COM 8009256278 BENTONVILLE AR,47.32,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-03-09,CTLP*REFRESH SIPS AND,2.7,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-09,CTLP*REFRESH SIPS AND,2.1,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-10,WALMART.COM 800-925-6278 ARW19J2L7CPCSI,1.63,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-03-10,GOOGLE *COLAB CC@GOOGLE.COMCAP19ZWUHX,9.99,Services,Discover,Discover-2025-YearToDateSummary.csv,API Costs (Google Colab)
+2025-03-10,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-11,WALMART.COM 8009256278 BENTONVILLE AR,44.06,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-03-13,SHELL OIL 523769600QPS,2.45,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-03-16,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-16,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-17,CTLP*REFRESHMENTS INC,1.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-17,CTLP*REFRESHMENTS INC,3.5,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-18,SHELL OIL 523769600QPS,13.76,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-19,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-19,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-20,CTLP*REFRESHMENTS INC,1.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-20,WALMART.COM 8009256278 BENTONVILLE AR,105.24,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-03-20,GRUBHUB - MISSISSIPPI,9.63,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Grubhub
+2025-03-20,WALMART.COM 8009256278 BENTONVILLE AR,16.48,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-03-21,CTLP*REFRESHMENTS INC,1.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-22,SHELL OIL 523769600QPS,5.34,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-23,WM SUPERCENTER #112,29.99,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-03-23,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-23,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-24,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-24,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-25,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-25,SHELL OIL 523769600QPS,4.69,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-26,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-26,CTLP*REFRESHMENTS INC,1.75,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-26,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-27,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-27,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-27,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-27,SHELL OIL 523769600QPS,2.33,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-03-27,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-29,AMK MSU GRIFFIS POD,2.77,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-30,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-30,CTLP*REFRESHMENTS INC,3.5,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-03-31,GRUBHUB - MISSISSIPPI,6.52,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Grubhub
+2025-03-31,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-01,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-04-01,SHELL OIL 523769600QPS,3.3,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-02,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-02,SHELL OIL 523769600QPS,2.66,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-02,WALMART.COM 8009256278 BENTONVILLE AR,6.38,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-02,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-03,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-03,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-03,WALMART.COM 8009256278 BENTONVILLE AR,4.26,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-03,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-03,SHELL OIL 523769600QPS,2.77,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-05,WALMART.COM 800-925-6278 ARWG23H4MOO3QI,9.62,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-05,UBER   *BUFFALOWILDW,3.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Buffalo Wild Wings
+2025-04-05,UBER   *EATS,23.93,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Dining
+2025-04-06,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-07,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-04-07,AMAZON PRIME*HE61O50J3 AMZN.COM/BILLWA27HU9Q8W5D1,1.06,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Prime
+2025-04-07,AMAZON MKTPL*Y746M8AJ3 AMZN.COM/BILLWA1BHX8F9V802,21.65,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-04-07,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-07,MSU STUDENT HEALTH CEN,2.6,Health Care,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,MSU Health Center
+2025-04-08,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-08,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-08,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-08,SIMPLE BILLS 254-230-0199 TX,0.9,Services,Discover,Discover-2025-YearToDateSummary.csv,Electricity
+2025-04-08,WAL-MART #0112,7.19,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-04-08,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-09,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-09,DAVES DARK HORSE TAVER,13.51,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Dave's Dark Horse
+2025-04-09,SHELL OIL 523769600QPS,2.66,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-09,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-10,SHELL OIL 523769600QPS,6.28,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-10,GRUBHUB - MISSISSIPPI,6.3,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Grubhub
+2025-04-10,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-11,MSU STUDENT HEALTH CEN,2.6,Health Care,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,MSU Health Center
+2025-04-11,UBER   *EATS,20.87,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Dining
+2025-04-11,SHELL OIL 523769600QPS,5.33,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-12,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-13,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-13,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-13,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-14,SQ *MAFES SALES STORE,1.75,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,MSU MAFES Store
+2025-04-14,MSU CAMPUS COMMERCE,10.0,Other,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,MSU Campus
+2025-04-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-04-15,CTLP*REFRESHMENTS INC,1.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-15,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-15,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-15,WALMART.COM 800-925-6278 ARWKXEVZJILLG6,79.02,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-16,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-16,SHELL52376960036 STARKVILLE MS,1.17,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-16,AMK MSU POD UNION MISSISSIPPI SMS,3.73,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-17,SHELL52376960036 STARKVILLE MS,2.45,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-17,SHELL52376960036 STARKVILLE MS,4.69,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-17,WALMART.COM 800-925-6278 AR,7.48,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-18,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-18,MSU CAMPUS COMMERCE MISSISSIPPI SMS,3.5,Education,Discover,Discover-2025-YearToDateSummary.csv,MSU Campus
+2025-04-18,SHELL52376960036 STARKVILLE MS,1.17,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-19,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-20,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-20,SHELL52376960036 STARKVILLE MS,1.17,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-20,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-20,UBER   *EATS,24.43,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Dining
+2025-04-21,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-21,SHELL52376960036 STARKVILLE MS,1.17,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-22,SHELL52376960036 STARKVILLE MS,1.17,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-22,SHELL52376960036 STARKVILLE MS,1.17,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-22,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-23,WALMART.COM 800-925-6278 ARWYSVM8CW7PPM,41.85,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-23,SHELL52376960036 STARKVILLE MS,1.17,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-24,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-24,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-24,SHELL52376960036 STARKVILLE MS,1.17,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-25,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-25,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-25,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-26,SHELL OIL 523769600QPS,5.13,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-27,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-04-27,WALMART.COM 8009256278 BENTONVILLE AR,56.09,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-28,WALMART.COM 800-925-6278 ARW40TUU4H49TT,15.86,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-28,WALMART.COM 8009256278 BENTONVILLE AR,10.69,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-28,WALMART.COM 8009256278 BENTONVILLE AR,2.62,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-28,SHELL52376960036 STARKVILLE MS,4.69,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-04-29,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-29,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-04-29,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-04-30,WALMART.COM 8009256278 BENTONVILLE AR,4.22,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-04-30,SHELL OIL 523769600QPS,4.27,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-01,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-05-01,SHELL OIL 523769600QPS,5.13,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-01,AMK MSU EINSTEINS BROS,6.52,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-01,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-02,AMK MSU POD UNION,3.09,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-02,AMK MSU POD UNION,2.88,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-02,SHELL OIL 523769600QPS,5.13,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-04,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-04,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-05,WALMART.COM 800-925-6278 AR,53.5,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-05-05,SHELL52376960036 STARKVILLE MS,2.66,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-05-05,COCA COLA CLARK STARKV,3.75,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-05,SHELL52376960036 STARKVILLE MS,1.17,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-05-06,WALMART.COM 800-925-6278 ARW66KJFQF03M9,4.26,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-05-06,SHELL OIL 523769600QPS,7.14,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-06,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-05-07,SHELL OIL 523769600QPS,5.13,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-05-07,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-08,WALMART.COM 800-925-6278 AR,5.22,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-05-08,WM SUPERCENTER #112,19.41,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-05-08,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-08,CTLP*REFRESHMENTS INC,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-08,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-09,AMK MSU PANDA EXPRESS,8.88,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-09,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-09,TST*BOARDTOWN PIES AND,18.7,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Boardtown Pies
+2025-05-09,SHELL OIL 523769600QPS,3.83,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-10,SHELL OIL 523769600QPS,4.69,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-11,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250521-statements-7557-.pdf,Vending Machine
+2025-05-11,CTLP*REFRESHMENTS INC,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-05-11,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-12,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-12,SIMPLE BILLS 254-230-0199 TX,8.75,Services,Discover,Discover-2025-YearToDateSummary.csv,Electricity
+2025-05-12,WALMART.COM 800-925-6278 AR,18.14,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-05-13,AMK MSU POD UNION MISSISSIPPI SMS,2.56,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-05-13,STARBUCKS 78066 MSU MISSISSIPPI SMS,6.37,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Starbucks
+2025-05-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-05-15,SHELL OIL 52376960036 STARKVILLE MS,5.13,Gas,Chase-7557,20250521-statements-7557-.pdf,Gas Station Indiscretion
+2025-05-15,SHELL OIL 52376960036 STARKVILLE MS,3.3,Gas,Chase-7557,20250521-statements-7557-.pdf,Gas Station Indiscretion
+2025-05-15,GRUBHUB - MISSISSIPPI ST. MS STATE MS,5.98,Dining,Chase-7557,20250521-statements-7557-.pdf,Grubhub
+2025-05-17,CTLP*REFRESHMENTS INC CORINTH MS,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-05-17,CTLP*REFRESHMENTS INC CORINTH MS,4.5,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-05-17,DD *DOORDASH ASIANFOOD 6506819470 CA,15.08,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,DoorDash
+2025-05-18,SHELL52376960036 STARKVILLE MS,5.33,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-05-18,SHELL52376960036 STARKVILLE MS,4.27,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-05-19,WALMART.COM 800-925-6278 ARWGM06P153S8W,17.11,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-05-19,SHELL52376960036 STARKVILLE MS,4.69,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-05-19,PAYPAL *ALIPAYUSINC 888-221-1161 CA,9.0,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Alipay Transfer
+2025-05-19,DD *DOORDASH BUFFALOWI 6506819470 CA,20.48,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,DoorDash
+2025-05-20,UBER   *EATS,17.91,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Dining
+2025-05-20,SHELL OIL 523769600QPS,5.54,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-21,WALMART.COM 8009256278 BENTONVILLE AR,11.17,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-05-21,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-21,WALMART.COM 800-925-6278 AR,10.67,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-05-22,SHELL OIL 523769600QPS,1.17,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-23,WALMART.COM 800-925-6278 AR,50.14,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-05-24,SHELL OIL 52376960036 STARKVILLE MS,5.54,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-05-24,SHELL OIL 52376960036 STARKVILLE MS,4.69,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-05-25,SHELL OIL 52376960036 STARKVILLE MS,3.52,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-05-25,WALMART.COM 800-925-6278 AR,16.02,Merchandise,Chase-7557,20250621-statements-7557-.pdf,Walmart
+2025-05-25,WALMART.COM 800-925-6278 AR,10.67,Merchandise,Chase-7557,20250621-statements-7557-.pdf,Walmart
+2025-05-25,WALMART.COM 800-925-6278 AR,17.95,Merchandise,Chase-7557,20250621-statements-7557-.pdf,Walmart
+2025-05-26,SHELL OIL 52376960036 STARKVILLE MS,1.17,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-05-26,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-05-26,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-05-26,DD *DOORDASH BUFFALOWI 6506819470 CA,16.19,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,DoorDash
+2025-05-28,SHELL OIL 52376960036 STARKVILLE MS,4.69,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-05-28,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-05-28,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-05-28,GRUBHUB - MISSISSIPPI ST. MS STATE MS,7.05,Dining,Chase-7557,20250621-statements-7557-.pdf,Grubhub
+2025-05-29,SHELL OIL 52376960036 STARKVILLE MS,1.17,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-05-29,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-05-30,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-05-30,WALMART.COM 800-925-6278 AR,48.04,Merchandise,Chase-7557,20250621-statements-7557-.pdf,Walmart
+2025-05-31,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-05-31,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-01,SHELL OIL 52376960036 STARKVILLE MS,1.17,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-01,SHELL OIL 523769600QPS,2.45,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-06-02,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-02,SHELL OIL 52376960036 STARKVILLE MS,4.69,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-02,KINDLE SVCS*N65T95OW0 888-802-3080 WA6K37QU0Z8NU,1.06,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Books (Kindle)
+2025-06-02,DD *DOORDASH POPEYESLO 6506819470 CA,12.02,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,DoorDash
+2025-06-03,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-03,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-06-03,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-04,AMK MSU PANDA EXPRESS MISSISSIPPI S MS,8.88,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-04,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-04,SHELL OIL 52376960036 STARKVILLE MS,4.69,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-05,CTLP*REFRESHMENTS INC CORINTH MS,2.0,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-05,SHELL OIL 52376960036 STARKVILLE MS,4.69,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-06,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-07,SHELL OIL 52376960036 STARKVILLE MS,6.71,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-07,AMK MSU GRIFFIS POD MISSISSIPPI S MS,2.56,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-07,CTLP*REFRESHMENTS INC CORINTH MS,5.75,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-06-08,DD *DOORDASH BUFFALOWI 855-431-0459 CA,16.44,Dining,Chase-7557,20250621-statements-7557-.pdf,DoorDash
+2025-06-09,DD *DOORDASH BUFFALOWI 855-431-0459 CA,16.44,Dining,Chase-7557,20250621-statements-7557-.pdf,DoorDash
+2025-06-09,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-09,DD *DOORDASH PANDAEXPR 855-431-0459 CA,16.76,Dining,Chase-7557,20250621-statements-7557-.pdf,DoorDash
+2025-06-09,AMK MSU PANDA EXPRESS MISSISSIPPI S MS,8.88,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-09,GRUBHUB - MISSISSIPPI ST. MS STATE MS,6.3,Dining,Chase-7557,20250621-statements-7557-.pdf,Grubhub
+2025-06-09,GOOGLE *AMAZON KINDLE 855-836-3987 CAP1BPD1ZW,2.13,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Books (Kindle)
+2025-06-09,DD *DOORDASH DOLLARGEN 855-431-0459 CA,15.3,Dining,Chase-7557,20250621-statements-7557-.pdf,DoorDash
+2025-06-10,WALMART.COM 800-925-6278 AR,51.73,Merchandise,Chase-7557,20250621-statements-7557-.pdf,Walmart
+2025-06-10,DD *DOORDASH BUFFALOWI 855-431-0459 CA,16.44,Dining,Chase-7557,20250621-statements-7557-.pdf,DoorDash
+2025-06-11,SHELL OIL 52376960036 STARKVILLE MS,4.69,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-11,WALMART.COM 800-925-6278 AR,2.3,Merchandise,Chase-7557,20250621-statements-7557-.pdf,Walmart
+2025-06-11,SHELL OIL 523769600QPS,7.14,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-06-12,WALMART.COM 800-925-6278 AR,45.88,Merchandise,Chase-7557,20250621-statements-7557-.pdf,Walmart
+2025-06-12,SIMPLE BILLS 254-230-0199 TX,16.62,Services,Discover,Discover-2025-YearToDateSummary.csv,Electricity
+2025-06-13,DD *DOORDASH BUFFALOWI 855-431-0459 CA,16.44,Dining,Chase-7557,20250621-statements-7557-.pdf,DoorDash
+2025-06-13,DD *DOORDASH DOLLARGEN 855-431-0459 CA,8.64,Dining,Chase-7557,20250621-statements-7557-.pdf,DoorDash
+2025-06-13,SHELL OIL 52376960036 STARKVILLE MS,7.14,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-14,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-14,AMK MSU GRIFFIS POD MISSISSIPPI S MS,4.06,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-06-14,SHELL OIL 52376960036 STARKVILLE MS,7.47,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-15,SHELL OIL 52376960036 STARKVILLE MS,1.17,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-15,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-16,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-16,DD *DOORDASH BUFFALOWI 855-431-0459 CA,16.44,Dining,Chase-7557,20250621-statements-7557-.pdf,DoorDash
+2025-06-16,AMK MSU GRIFFIS POD MISSISSIPPI S MS,6.61,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-16,AMK MSU PANDA EXPRESS MISSISSIPPI S MS,8.88,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-16,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-16,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-16,resumeexample Paris,4.95,Services,Chase-7557,20250621-statements-7557-.pdf,Resume Services
+2025-06-16,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-16,DD *DOORDASHDASHPASS DOORDASH.COM CA,9.99,Services,Chase-7557,20250621-statements-7557-.pdf,DoorDash
+2025-06-16,CTLP*REFRESHMENTS INC CORINTH MS,1.75,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-16,SHELL OIL 52376960036 STARKVILLE MS,9.18,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-17,SHELL OIL 52376960036 STARKVILLE MS,4.69,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-17,AMK MSU PANDA EXPRESS MISSISSIPPI S MS,2.14,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-17,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-17,AMK MSU PANDA EXPRESS MISSISSIPPI S MS,8.88,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-18,WALMART.COM 8009256278 800-966-6546 AR,54.83,Merchandise,Chase-7557,20250621-statements-7557-.pdf,Walmart
+2025-06-18,WALMART.COM 8009256278 800-966-6546 AR,4.92,Merchandise,Chase-7557,20250621-statements-7557-.pdf,Walmart
+2025-06-18,SHELL OIL 52376960036 STARKVILLE MS,6.82,Gas,Chase-7557,20250621-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-19,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Dining,Chase-7557,20250621-statements-7557-.pdf,Vending Machine
+2025-06-19,AMK MSU PANDA EXPRESS MISSISSIPPI SMS,8.88,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-06-20,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-06-20,SHELL OIL 523769600QPS,4.27,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-06-21,SHELL52376960036 STARKVILLE MS,6.4,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-06-21,AMAZON MKTPL*NO9IP6GS1 AMZN.COM/BILLWA3JWZ9AECRI4,42.48,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-06-22,SHELL OIL 523769600QPS,3.52,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-06-23,76 - DEES OIL CO INC STARKVILLE MS,3.63,Gas,Chase-7557,20250721-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-23,SPORT CLIPS - MS502,7.0,Other Services,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Haircut
+2025-06-23,WAL-MART #0112 STARKVILLE MS,2.55,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Walmart
+2025-06-23,STP*V*resume-example*s Etampes,4.95,Services,Chase-7557,20250721-statements-7557-.pdf,Resume Services
+2025-06-23,WAL-MART #0112 STARKVILLE MS,22.3,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Walmart
+2025-06-23,MSU CAMPUS COMMERCE,3.5,Other,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,MSU Campus
+2025-06-24,Amazon.com*NO1R01W71 AMZN.COM/BILL WA,274.52,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Amazon Shopping
+2025-06-24,AMAZON PRIME*NO2OY7UD1 Amzn.com/bill WA,8.01,Services,Chase-7557,20250721-statements-7557-.pdf,Amazon Prime
+2025-06-25,COCA COLA CLARK STARKV,2.0,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-06-26,WALMART.COM 800-925-6278 AR,30.21,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Walmart
+2025-06-29,CTLP*REFRESHMENTS INC,4.5,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-06-29,SHELL OIL 52376960036 STARKVILLE MS,3.2,Gas,Chase-7557,20250721-statements-7557-.pdf,Gas Station Indiscretion
+2025-06-30,CL *Chase Travel TRIPCHRG.COM VA,671.95,Travel,Chase-7557,20250721-statements-7557-.pdf,Chase Travel
+2025-06-30,STP*V*resume-example*s Etampes,4.95,Services,Chase-7557,20250721-statements-7557-.pdf,Resume Services
+2025-06-30,CTLP*REFRESHMENTS INC,1.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-06-30,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-06-30,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-07-02,DD *DOORDASH BUFFALOWI 855-431-0459 CA,14.58,Dining,Chase-7557,20250721-statements-7557-.pdf,DoorDash
+2025-07-02,GRUBHUB - MISSISSIPPI ST. MS STATE MS,8.01,Dining,Chase-7557,20250721-statements-7557-.pdf,Grubhub
+2025-07-02,SHELL52376960036 STARKVILLE MS,3.45,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-07-02,MSDPS JACKSON HQ JACKSON MS,7.0,Services,Chase-7557,20250721-statements-7557-.pdf,DMV/DPS
+2025-07-02,HIGH GROUND COFFEE,3.3,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,High Ground Coffee
+2025-07-02,CHEVRON 0308765,6.3,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-07-02,DOLLAR-GENERAL #7025,5.25,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Dollar General
+2025-07-02,TACO BELL #034026,3.16,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Taco Bell
+2025-07-02,TACO BELL #034026 CHATTANOOGA TN,6.54,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Taco Bell
+2025-07-02,MSDPS JACKSON HQ JACKSON MS,24.0,Services,Chase-7557,20250721-statements-7557-.pdf,DMV/DPS
+2025-07-03,LITTLE ITALY PIZZA,19.1,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Pizza
+2025-07-03,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-03,OMNY VENDING* NEW YORK NY,2.0,Travel,Chase-7557,20250721-statements-7557-.pdf,NYC Transit
+2025-07-03,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-03,TARGET 00033852 NEW YORK NY,2.17,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Target
+2025-07-03,LITTLE ITALY PIZZA NEW YORK NY,3.42,Dining,Chase-7557,20250721-statements-7557-.pdf,Pizza
+2025-07-04,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-04,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-04,SQ *BARHOSHA NYC HALAL,2.2,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,NYC Halal Food
+2025-07-04,SQ *NASSAU STREET,3.51,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Nassau Street Store
+2025-07-04,SQ *AR CAIRO INC,14.7,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,NYC Halal Food
+2025-07-04,BP#4804308MCGUINESSQPS,2.06,Gas/Automotive,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Gas Station Indiscretion
+2025-07-04,SHIVA SAI CORP,21.0,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Merchandise
+2025-07-04,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-04,LITTLE ITALY PIZZA,6.84,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Pizza
+2025-07-04,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-04,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-04,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-04,CENTURY 21 NEW YORK NY,87.58,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Clothes (Century 21)
+2025-07-04,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-04,CENTURY 21 NEW YORK NY,12.99,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Clothes (Century 21)
+2025-07-05,Hudson Yards NYC New York NY,16.33,Entertainment,Chase-7557,20250721-statements-7557-.pdf,Entertainment
+2025-07-05,PAYPAL *LYFT 2 RIDES 888-221-1161 CA,26.17,Travel/ Entertainment,Discover,Discover-2025-YearToDateSummary.csv,Lyft
+2025-07-05,LITTLE ITALY PIZZA NEW YORK NY,3.42,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Pizza
+2025-07-05,RETAG FOOD VENDOR,2.26,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Food Vendor
+2025-07-05,BK MINI MART,2.6,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Merchandise
+2025-07-05,LITTLE ITALY PIZZA,5.13,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Pizza
+2025-07-05,365 MARKET K 888 432-3,3.87,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-07-05,MCNALLY JACKSON BOOKS,38.11,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Books
+2025-07-05,42ND STREET NEW YORK NY,32.07,Other,Chase-7557,20250721-statements-7557-.pdf,Other
+2025-07-05,FAMOUS PIZZA NEW YORK NY,4.52,Dining,Chase-7557,20250721-statements-7557-.pdf,Pizza
+2025-07-05,NYC GIFTS TOWN NEW YORK NY,32.66,Merchandise,Chase-7557,20250721-statements-7557-.pdf,NYC Gift Shop
+2025-07-05,MTA*NYCT PAYGO NEW YORK NY,2.1,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-05,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-05,MTA*NYCT PAYGO NEW YORK NY,2.9,Travel,Chase-7557,20250721-statements-7557-.pdf,Travel
+2025-07-05,RAISING CANES 0888 NEW YORK NY,14.58,Dining,Chase-7557,20250721-statements-7557-.pdf,Raising Cane's
+2025-07-06,PILOT 253 CARNEYS POINT NJ,5.23,Gas,Chase-7557,20250721-statements-7557-.pdf,Gas Station Indiscretion
+2025-07-06,WAL-MART #2279 GLEN BURNIE MD,22.12,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Walmart
+2025-07-06,PAYPAL *HNYFERRYIIL 888-221-1161 CA,4.5,Travel/ Entertainment,Discover,Discover-2025-YearToDateSummary.csv,Ferry
+2025-07-06,H&M 0700NEW YORK CITY NEW YORK CITYNYUS0700005250706185850,6.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Clothes (H&M)
+2025-07-06,BURGER KING #2446 NEW YORK NY,3.04,Dining,Chase-7557,20250721-statements-7557-.pdf,Burger King
+2025-07-06,CENTURY 21,2.17,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Clothes (Century 21)
+2025-07-06,B & W DELI GROCERY CO NEW YORK NY,4.16,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Deli/Grocery (NYC)
+2025-07-06,SQ *HOODA HALAL,15.24,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,NYC Halal Food
+2025-07-06,SQ *YASSO SUNSHINE INC,10.24,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,NYC Halal Food
+2025-07-07,TACO BELL #029042 CHATTANOOGA TN,1.09,Dining,Chase-7557,20250721-statements-7557-.pdf,Taco Bell
+2025-07-07,STP*V*resume-example*s Etampes,4.95,Services,Chase-7557,20250721-statements-7557-.pdf,Resume Services
+2025-07-07,EXXONMOBIL CHATTANOOGA TN,2.01,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-07-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-07-07,TACO BELL #029042 CHATTANOOGA TN,6.54,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Taco Bell
+2025-07-08,DD *DOORDASH BUFFALOWI 855-431-0459 CA,14.58,Dining,Chase-7557,20250721-statements-7557-.pdf,DoorDash
+2025-07-09,WALMART.COM 8009256278 800-966-6546 AR,54.71,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Walmart
+2025-07-09,PAYPAL *DISNEY PLUS 888-221-1161 CA,11.76,Services,Discover,Discover-2025-YearToDateSummary.csv,Disney+
+2025-07-09,STARBUCKS 78066 MSU MISSISSIPPI SMS,4.23,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Starbucks
+2025-07-09,SIMPLE BILLS 254-230-0199 TX,69.4,Services,Discover,Discover-2025-YearToDateSummary.csv,Electricity
+2025-07-09,Amazon.com*NL79E7IL2 Amzn.com/bill WA,29.54,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Amazon Shopping
+2025-07-09,Kindle Svcs*NL1SW0952 888-802-3080 WA,1.9,Services,Chase-7557,20250721-statements-7557-.pdf,Books (Kindle)
+2025-07-09,WALMART.COM 8009256278 800-966-6546 AR,3.89,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Walmart
+2025-07-10,WALMART.COM 800-925-6278 AR,5.32,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Walmart
+2025-07-10,AMAZON MKTPL*NL0127V31 AMZN.COM/BILLWA5I51NIU2S7Y,10.69,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-07-12,SHELL52376960036 STARKVILLE MS,3.14,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-07-12,Kindle Svcs*NR12Q8TA0 888-802-3080 WA,3.18,Services,Chase-7557,20250721-statements-7557-.pdf,Books (Kindle)
+2025-07-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-07-15,SHELL52376960036 STARKVILLE MS,3.14,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-07-16,KROGER #381 STARKVILLE MS,2.82,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Grocery (Kroger)
+2025-07-16,Kindle Svcs*719S50023 888-802-3080 WA,1.06,Services,Chase-7557,20250721-statements-7557-.pdf,Books (Kindle)
+2025-07-16,WALMART.COM 800-925-6278 AR,4.22,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Walmart
+2025-07-16,KROGER #381 STARKVILLE MS,5.25,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Grocery (Kroger)
+2025-07-17,WALMART.COM 800-925-6278 AR,43.15,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-07-19,AMAZON MKTPL*YS2PQ0PD3 Amzn.com/bill WA,38.46,Merchandise,Chase-7557,20250721-statements-7557-.pdf,Amazon Shopping
+2025-07-19,DD *DOORDASH BUFFALOWI 855-431-0459 CA,13.82,Dining,Chase-7557,20250721-statements-7557-.pdf,DoorDash
+2025-07-20,AMAZON.COM*4W9NU05E3 AMZN.COM/BILLWA5QB2FYF5WB0,4.8,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-07-20,AMAZON MKTPL*3T1162NP3 AMZN.COM/BILLWA57UZIYL69X3,39.24,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-07-20,WALMART.COM 8009256278 BENTONVILLE AR,8.77,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-07-21,AMAZON.COM*SA8XF1GY3 AMZN.COM/BILLWAI40UR2I1OW3,6.09,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-07-21,ONLINE PURCHASE SOLIDGATE.COMDE,1.95,Services,Discover,Discover-2025-YearToDateSummary.csv,Online Service
+2025-07-21,SHELL OIL 52376960036 STARKVILLE MS,3.14,Gas,Chase-7557,20250821-statements-7557- (1).pdf,Gas Station Indiscretion
+2025-07-21,WM SUPERCENTER #112 STARKVILLE MS,21.27,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Walmart
+2025-07-21,WM SUPERCENTER #112 STARKVILLE MS,12.03,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Walmart
+2025-07-22,AMAZON MKTPL*RU7BC0IO3 AMZN.COM/BILLWA48HWWI0ZBPB,7.48,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-07-24,SHELL52376960036 STARKVILLE MS,3.14,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-07-24,Amazon.com*P69878V53 AMZN.COM/BILL WA,203.35,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Amazon Shopping
+2025-07-24,WALMART STORE 00112 STARKVILLE MS,17.48,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-07-24,WALMART STORE 00112 STARKVILLE MS,18.4,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-07-24,WM SUPERCENTER #112 STARKVILLE MS,-6.27,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Walmart
+2025-07-25,SHELL52376960036 STARKVILLE MS,3.14,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-07-26,SHELL OIL 52376960036 STARKVILLE MS,1.98,Gas,Chase-7557,20250821-statements-7557- (1).pdf,Gas Station Indiscretion
+2025-07-27,WENDYS #14200 STARKVILLE MS,3.73,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Wendy's
+2025-07-27,WENDYS #14200 STARKVILLE MS,2.85,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Wendy's
+2025-07-27,WALMART STORE 00112 STARKVILLE MS,75.74,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-07-27,WALMART STORE 00112 STARKVILLE MS,56.53,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-07-27,SHELL OIL 52376960036 STARKVILLE MS,3.52,Gas,Chase-7557,20250821-statements-7557- (1).pdf,Gas Station Indiscretion
+2025-07-28,CTLP*REFRESHMENTS INC CORINTH MS,3.5,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-07-28,SHELL52376960036 STARKVILLE MS,1.35,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-07-28,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-07-28,CTLP*REFRESHMENTS INC CORINTH MS,1.25,Dining,Chase-7557,20250821-statements-7557- (1).pdf,Vending Machine
+2025-07-28,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250821-statements-7557- (1).pdf,Vending Machine
+2025-07-29,KROGER #381 STARKVILLE MS,13.93,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Grocery (Kroger)
+2025-07-29,PY *COPY COW STARKVILLE MS,2.14,Services,Discover,Discover-2025-YearToDateSummary.csv,Printing
+2025-07-29,WALMART STORE 00112 STARKVILLE MS,19.57,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-07-30,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250821-statements-7557- (1).pdf,Vending Machine
+2025-07-30,CTLP*REFRESHMENTS INC CORINTH MS,4.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-07-30,COCA COLA CLARK STARKVILL OAKLAND KY,2.0,Dining,Chase-7557,20250821-statements-7557- (1).pdf,Vending Machine
+2025-07-31,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-07-31,WENDYS #14200 STARKVILLE MS,6.15,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Wendy's
+2025-07-31,WENDYS #14200 STARKVILLE MS,3.5,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Wendy's
+2025-07-31,SHELL OIL 52376960036 STARKVILLE MS,3.03,Gas,Chase-7557,20250821-statements-7557- (1).pdf,Gas Station Indiscretion
+2025-08-01,SHELL OIL 52376960036 STARKVILLE MS,6.59,Gas,Chase-7557,20250821-statements-7557- (1).pdf,Gas Station Indiscretion
+2025-08-02,GOOGLE HINGE DATING A GOOGLE.COM CA,12.83,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Hinge
+2025-08-04,AMAZON MKTPL*D62325Y23 AMZN.COM/BILLWA61O8036UGAT,10.69,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Shopping
+2025-08-05,WALMART.COM 800-925-6278 AR,43.94,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-08-05,DOLLAR-GENERAL #2716 STARKVILLE MS,4.48,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Dollar General
+2025-08-05,UEC THEATRE 11 - STARKVIL STARKVILLE MS,22.0,Entertainment,Chase-7557,20250821-statements-7557- (1).pdf,Movie Theater
+2025-08-05,WAL-MART #0112 STARKVILLE MS,12.51,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Walmart
+2025-08-06,WM SUPERCENTER #112 STARKVILLE MS,2.5,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Walmart
+2025-08-06,WM SUPERCENTER #112 STARKVILLE MS,9.1,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Walmart
+2025-08-07,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-08-07,AMAZON PRIME*6A2L74AZ3 AMZN.COM/BILLWA7G3MGRR714B,16.04,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Prime
+2025-08-08,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-08-08,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-08-08,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-08-08,WAL-MART #0112 STARKVILLE MS,6.0,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Walmart
+2025-08-09,WALMART STORE 00112 STARKVILLE MS,10.43,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-08-13,US MOBILE WWW.USMOBILE. NY,210.0,Services,Chase-7557,20250821-statements-7557- (1).pdf,Phone Service
+2025-08-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-08-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-08-14,PAYPAL *HCCMEDICALI 888-221-1161 CA,25.02,Services,Discover,Discover-2025-YearToDateSummary.csv,Medical Payment
+2025-08-14,AMAZON MKTPL*GD2VA3JO3 Amzn.com/bill WA,20.56,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Amazon Shopping
+2025-08-14,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-08-15,DD *DOORDASH WENDYS 855-431-0459 CA,15.48,Dining,Chase-7557,20250821-statements-7557- (1).pdf,DoorDash
+2025-08-16,MICRO CENTER MARIETTA MARIETTA GA,15.8,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Electronics (Micro Center)
+2025-08-16,AMAZON PRIME*ZV9J04HW3 Amzn.com/bill WA,8.01,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Amazon Prime
+2025-08-16,MICRO CENTER MARIETTA MARIETTA GA,13.77,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Electronics (Micro Center)
+2025-08-16,BUC-EE'S #43 LEEDS AL15919982,7.21,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-08-16,BUC-EE'S #43 LEEDS AL15919795,7.69,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-08-16,WALMART.COM 800-925-6278 AR,54.79,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-08-17,AMAZON PRIME PMTS Amzn.com/bill WA,-8.01,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Amazon Prime
+2025-08-17,WALMART STORE 00112 STARKVILLE MS,26.81,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-08-19,ANDAMAN THAI CUISINE STARKVILLE MS,17.09,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Thai Restaurant
+2025-08-20,WALMART.COM 800-925-6278 AR,11.62,Merchandise,Chase-7557,20250821-statements-7557- (1).pdf,Walmart
+2025-08-21,WALMART.COM 800-925-6278 AR,13.47,Merchandise,Chase-7557,20250921-statements-7557-.pdf,Walmart
+2025-08-21,WALMART.COM 800-925-6278 AR,8.53,Merchandise,Chase-7557,20250921-statements-7557-.pdf,Walmart
+2025-08-23,Amazon.com*KM7B57WQ3 AMZN.COM/BILL WA,203.35,Merchandise,Chase-7557,20250921-statements-7557-.pdf,Amazon Shopping
+2025-08-24,DD *DOORDASH BUFFALOWI 855-431-0459 CA,22.66,Dining,Chase-7557,20250921-statements-7557-.pdf,DoorDash
+2025-08-26,WALMART.COM 800-925-6278 AR,14.51,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-08-26,WALMART.COM 800-925-6278 AR,42.04,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-08-26,WALMART.COM 8009256278 BENTONVILLE AR,5.74,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-08-26,WALMART.COM 8009256278 BENTONVILLE AR,11.74,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-08-28,Amazon.com*8V5132GR3 Amzn.com/bill WA,22.73,Merchandise,Chase-7557,20250921-statements-7557-.pdf,Amazon Shopping
+2025-08-31,WALMART.COM WALMART.COM AR,1.91,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-01,WALMART STORE 00112 STARKVILLE MS,20.59,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-02,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-09-03,WALMART.COM 800-925-6278 AR,6.28,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-03,Amazon.com*TM8083CV3 Amzn.com/bill WA,26.64,Merchandise,Chase-2040,20250926-statements-2040-.pdf,Amazon Shopping
+2025-09-03,Kindle Svcs*Z22DA7RY3 888-802-3080 WA,1.06,Merchandise,Chase-2040,20250926-statements-2040-.pdf,Books (Kindle)
+2025-09-04,AMAZON MKTPL*LW4HZ4O33 Amzn.com/bill WA,163.44,Merchandise,Chase-2040,20250926-statements-2040-.pdf,Amazon Shopping
+2025-09-05,WALMART.COM 800-925-6278 AR,12.66,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-05,WALMART.COM 800-925-6278 AR,4.03,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-06,AMAZON MKTPL*YR1F72QJ3 Amzn.com/bill WA,8.53,Merchandise,Chase-2040,20250926-statements-2040-.pdf,Amazon Shopping
+2025-09-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-09-07,COOK OUT STARKVILLE STARKVILLE MS,9.88,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Cook Out
+2025-09-08,AMAZON MKTPL*VP2TT07D3 Amzn.com/bill WA,3.11,Merchandise,Chase-2040,20250926-statements-2040-.pdf,Amazon Shopping
+2025-09-09,AMAZON MKTPL*SE8ER9F73 Amzn.com/bill WA,4.27,Merchandise,Chase-2040,20250926-statements-2040-.pdf,Amazon Shopping
+2025-09-10,WALMART.COM 8009256278 BENTONVILLE AR,13.88,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-11,HIGH GROUND COFFEE STARKVILLE MS,4.4,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,High Ground Coffee
+2025-09-11,AMAZON MKTPL*XF7MP3EC3 Amzn.com/bill WA,24.96,Merchandise,Chase-2040,20250926-statements-2040-.pdf,Amazon Shopping
+2025-09-13,AWL*PEARSON EDUCATION PRSONCS.COM NJ,101.64,Services,Chase-7557,20250921-statements-7557-.pdf,Textbooks (Pearson)
+2025-09-13,SHELL52376960036 STARKVILLE MS,11.63,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-09-13,WALMART STORE 00112 STARKVILLE MS,24.74,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-09-15,DD *DOORDASH CVS 855-431-0459 CA,22.83,Merchandise,Chase-7557,20250921-statements-7557-.pdf,DoorDash
+2025-09-15,WALMART.COM 8009256278 BENTONVILLE AR,8.28,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-16,UEC THEATRE 11 - STARKVI STARKVILLE MS,5.5,Travel/ Entertainment,Discover,Discover-2025-YearToDateSummary.csv,Movie Theater
+2025-09-16,WALMART.COM 800-925-6278 AR,22.97,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-22,Amazon.com*OK01F6A03 AMZN.COM/BILL WA,203.35,Merchandise,Chase-7557,20251021-statements-7557-.pdf,Amazon Shopping
+2025-09-23,AMAZON MKTPL*P73A29453 Amzn.com/bill WA,20.97,Merchandise,Chase-2040,20250926-statements-2040-.pdf,Amazon Shopping
+2025-09-25,KROGER #381 STARKVILLE MS,7.86,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Grocery (Kroger)
+2025-09-26,LS MOBILE BICYCLE REP STARKVILLE MS,21.65,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Bicycle Repair
+2025-09-27,SHELL52376960036 STARKVILLE MS,5.96,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-09-29,WALMART.COM 800-925-6278 AR,42.66,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-09-30,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-09-30,MCDONALD'S F25131 STARKVILLE MS,8.57,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,McDonald's
+2025-10-01,WALMART.COM 800-925-6278 AR,5.31,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-10-01,AMAZON PRIME*NV2906VU0 Amzn.com/bill WA,8.01,Services,Chase-7557,20251021-statements-7557-.pdf,Amazon Prime
+2025-10-03,WENDYS #21200 FLOWOOD MS,6.53,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Wendy's
+2025-10-03,MURPHY USA 7808 STARKVILLE MS,36.72,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gasoline
+2025-10-04,EXXONMOBIL MINDEN LA,5.25,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-10-04,QT 859 ARLINGTON TX0085902RNX2WVFW,3.24,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-10-04,SHELL57543632400 LONGVIEW TX,19.46,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-10-04,QT 859 ARLINGTON TX0085901MFT2WVFW,1.49,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-10-05,DOMINO'S 6921 ARLINGTON TX,25.5,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Domino's
+2025-10-05,PAYPAL *DISNEY PLUS 888-221-1161 CA,11.76,Services,Discover,Discover-2025-YearToDateSummary.csv,Disney+
+2025-10-05,WENDYS 233 DUNCANVILLE TX,7.03,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Wendy's
+2025-10-06,QT 7221 INSIDE RUSTON LA0722102ZMBDP4FW,3.28,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-10-06,QT 7221 INSIDE RUSTON LA07221029KBDP4FW,5.28,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-10-06,THE UPS STORE 3702 STARKVILLE MS,30.51,Services,Discover,Discover-2025-YearToDateSummary.csv,Shipping (UPS)
+2025-10-07,HIGH GROUND COFFEE STARKVILLE MS,7.06,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,High Ground Coffee
+2025-10-07,MCDONALDS 39092 RUSTON LA,1.45,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,McDonald's
+2025-10-08,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-10-09,PAR*PITA PIT - STARKVILL STARKVILLE MS,4.84,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Pita Pit
+2025-10-09,WALMART STORE 00112 STARKVILLE MS,7.78,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-10-09,AMAZON MKTPL*NF2HW78O0 Amzn.com/bill WA,47.48,Merchandise,Chase-2040,20251026-statements-2040-.pdf,Amazon Shopping
+2025-10-10,PAR*PITA PIT - STARKVILL STARKVILLE MS,1.82,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Pita Pit
+2025-10-10,WALMART.COM 8009256278 BENTONVILLE AR,3.71,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-10-11,AMAZON MKTPL*NF1FY2T22 Amzn.com/bill WA,63.22,Merchandise,Chase-2040,20251026-statements-2040-.pdf,Amazon Shopping
+2025-10-11,Amazon.com*NF7FY1T22 Amzn.com/bill WA,35.1,Merchandise,Chase-2040,20251026-statements-2040-.pdf,Amazon Shopping
+2025-10-11,WALMART.COM 800-925-6278 AR,36.23,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-10-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-10-14,PAR*PITA PIT - STARKVILL STARKVILLE MS,3.58,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Pita Pit
+2025-10-15,AMAZON MKTPL*NM7P24BD1 Amzn.com/bill WA,4.68,Merchandise,Chase-2040,20251026-statements-2040-.pdf,Amazon Shopping
+2025-10-16,MSU STUDENT HEALTH CENTE MISSISSIPPI SMS,3.1,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,MSU Health Center
+2025-10-17,CTLP*GREENSBORO VENDIN GREENSBORO NC,2.35,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-10-17,LOVE'S #0765 INSIDE COMMERCE GA0007650003065780252900,5.35,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-10-17,SUPER 8 CHARLOTTE UNIV CHARLOTTE NC01733R,68.39,Travel/ Entertainment,Discover,Discover-2025-YearToDateSummary.csv,Hotel (Super 8)
+2025-10-17,DD *DOORDASH TASTE 855-431-0459 CA,19.29,Dining,Chase-7557,20251021-statements-7557-.pdf,DoorDash
+2025-10-17,AMAZON MKTPL*NM1435Y60 Amzn.com/bill WA,3.41,Merchandise,Chase-2040,20251026-statements-2040-.pdf,Amazon Shopping
+2025-10-18,WALMART.COM 800-925-6278 AR,44.48,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-10-19,CIRCLE K # 21553 CHARLOTTE NC20251019,8.15,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-10-19,GREENE ST DECK KIOSKS GREENSBORO NC,3.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Parking
+2025-10-19,LINKEDINPREA 81139444 MOUNTAIN VIEWCA,21.39,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,LinkedIn Premium
+2025-10-19,TOPGOLF N CHARLOTTE 67-2 CHARLOTTE NC,42.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,TopGolf
+2025-10-20,LOVE'S #0818 OUTSIDE HEFLIN AL0008181011071357252920,37.38,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gasoline
+2025-10-21,DD *DOORDASH DOMINOS 855-431-0459 CA,14.15,Dining,Chase-7557,20251121-statements-7557-.pdf,DoorDash
+2025-10-21,LS MOBILE BICYCLE REP STARKVILLE MS,83.34,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Bicycle Repair
+2025-10-21,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-10-22,WALMART STORE 00112 STARKVILLE MS,5.22,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-10-22,Amazon.com*NU2PX3OU2 AMZN.COM/BILL WA,203.34,Merchandise,Chase-7557,20251121-statements-7557-.pdf,Amazon Shopping
+2025-10-22,DD *DOORDASH SUSHIFROM 855-431-0459 CA,2.56,Dining,Chase-7557,20251121-statements-7557-.pdf,DoorDash
+2025-10-22,KROGER #381 STARKVILLE MS,6.3,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Grocery (Kroger)
+2025-10-22,PAYPAL *MCDONALDS 14668 888-221-1161 CA,2.8,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,McDonald's
+2025-10-22,PAYPAL *MCDONALDS 7969 888-221-1161 CA,4.28,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,McDonald's
+2025-10-22,KROGER #381 STARKVILLE MS,3.66,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Grocery (Kroger)
+2025-10-22,WALMART.COM 8009256278 BENTONVILLE AR,7.46,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-10-23,WALMART.COM 8009256278 BENTONVILLE AR,4.89,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-10-23,CTLP*REFRESHMENTS INC CORINTH MS,2.25,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-10-25,DD *DOORDASH DOMINOS 855-431-0459 CA,14.79,Dining,Chase-7557,20251121-statements-7557-.pdf,DoorDash
+2025-10-26,DD *DOORDASH BUFFALOWI 855-431-0459 CA,16.19,Dining,Chase-7557,20251121-statements-7557-.pdf,DoorDash
+2025-10-27,AMAZON MKTPL*N44RW1BF1 Amzn.com/bill WA,65.79,Merchandise,Chase-2040,20251126-statements-2040-.pdf,Amazon Shopping
+2025-10-29,WALMART.COM 800-925-6278 AR,4.18,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-10-29,COCA COLA CLARK STARKVIL OAKLAND KY,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-10-30,SPORT CLIPS - MS502 STARKVILLE MS,35.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Haircut
+2025-10-30,KROGER #381 STARKVILLE MS,10.49,Supermarkets,Discover,Discover-2025-YearToDateSummary.csv,Grocery (Kroger)
+2025-10-30,Waffle House 1888 STARKVILLE MS,10.5,Dining,Chase-2040,20251126-statements-2040-.pdf,Waffle House
+2025-10-30,ATLYS INDIA PRIVATE LIMIT Gurgaon,75.54,Services,Chase-2040,20251126-statements-2040-.pdf,Visa Services (Atlys)
+2025-10-31,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-11-01,AMAZON PRIME*7X66U24W3 Amzn.com/bill WA,8.01,Services,Chase-7557,20251121-statements-7557-.pdf,Amazon Prime
+2025-11-01,CTLP*REFRESHMENTS INC CORINTH MS,2.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-11-01,DD *DOORDASH DOMINOS 855-431-0459 CA,18.73,Dining,Chase-7557,20251121-statements-7557-.pdf,DoorDash
+2025-11-01,GOOGLE *CLOUD ZPC59N G.CO/HELPPAY#CAP1FLKIXW,8.1,Services,Discover,Discover-2025-YearToDateSummary.csv,Services
+2025-11-02,AMAZON WEB SERVICES AWS.AMAZON.COWA2PP9S0N41VR,11.66,Services,Discover,Discover-2025-YearToDateSummary.csv,API Costs (AWS)
+2025-11-02,PAYPAL *MCDONALDS 25131 888-221-1161 CA,4.82,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,McDonald's
+2025-11-03,WALMART.COM 800-925-6278 AR,49.5,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-11-05,AMAZON PRIME*YS9QJ1DG3 AMZN.COM/BILLWA3QEG0US9KXM,1.06,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Amazon Prime
+2025-11-07,COCA COLA SOUTH METRO ATL ATLANTA GA,2.6,Dining,Chase-2040,20251126-statements-2040-.pdf,Vending Machine
+2025-11-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-11-07,BURGER KING #5035 TUSCALOOSA AL,6.04,Dining,Chase-2040,20251126-statements-2040-.pdf,Burger King
+2025-11-07,BURGER KING #5035 TUSCALOOSA AL,2.63,Dining,Chase-2040,20251126-statements-2040-.pdf,Burger King
+2025-11-08,TEXACO 0302995 OXFORD AL,2.04,Gas,Chase-2040,20251126-statements-2040-.pdf,Gas Station Indiscretion
+2025-11-08,CHEVRON FOOD MART ATLANTA GA,6.8,Gas,Chase-2040,20251126-statements-2040-.pdf,Gas Station Indiscretion
+2025-11-08,WENDYS #3830 ATLANTA GA,5.45,Dining,Chase-2040,20251126-statements-2040-.pdf,Wendy's
+2025-11-08,BIRD APP* PENDING.BIRD 8662052442 FL,2.71,Travel/ Entertainment,Discover,Discover-2025-YearToDateSummary.csv,Bird Scooter
+2025-11-08,WALMART.COM 800-925-6278 AR,17.29,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-11-09,WALMART STORE 00112 STARKVILLE MS,32.76,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-11-09,ELEVENLABS.IO 9177203691 NY,5.0,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,API Costs (ElevenLabs)
+2025-11-09,MIDTOWN WASH ATLANTA GA,1.75,Services,Chase-2040,20251126-statements-2040-.pdf,Car Wash
+2025-11-09,PATEL BROTHERS DECATUR DECATUR GA,14.9,Merchandise,Chase-2040,20251126-statements-2040-.pdf,Grocery (Patel Brothers)
+2025-11-09,TECH DINING-PANDA EXPRESS ATLANTA GA,11.0,Dining,Chase-2040,20251126-statements-2040-.pdf,Panda Express
+2025-11-10,EXXON NEW DEVELOPMENT OLIVE BRANCH MS,4.16,Gas,Chase-7557,20251121-statements-7557-.pdf,Gas Station Indiscretion
+2025-11-10,WALMART SCAN N GO02322 CORDOVA TN,21.92,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-11-11,PAYPAL *NETFLIX.COM 888-221-1161 CA,8.55,Services,Discover,Discover-2025-YearToDateSummary.csv,Netflix
+2025-11-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-11-17,THE UPS STORE 3702 662-3385077 MS,2.14,Services,Chase-7557,20251121-statements-7557-.pdf,Shipping (UPS)
+2025-11-18,WALMART.COM 800-925-6278 AR,48.48,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-11-18,WENDYS #14200 STARKVILLE MS,5.6,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Wendy's
+2025-11-19,LINKEDINPREA 40617164 MOUNTAIN VIEWCA,10.69,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,LinkedIn Premium
+2025-11-19,COCA COLA CLARK STARKVILL STARKVILLE MS,3.25,Dining,Chase-7557,20251121-statements-7557-.pdf,Vending Machine
+2025-11-19,COCA COLA CLARK STARKVILL STARKVILLE MS,3.25,Dining,Chase-7557,20251121-statements-7557-.pdf,Vending Machine
+2025-11-22,WALMART.COM 8009256278 BENTONVILLE AR,57.68,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-11-22,LATE FEE,30.0,Fees,Discover,Discover-2025-YearToDateSummary.csv,Fees
+2025-11-23,AMAZON PRIME*NB8CE8E73 Amzn.com/bill WA,1.06,Merchandise,Chase-7557,20251221-statements-7557-.pdf,Amazon Prime
+2025-11-25,ON THE WAY OLIVE BRANCH MS,2.99,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-11-25,MARATHON 200915 OKOLONA MS,4.19,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-11-25,Amazon.com*B23YC0HR2 Amzn.com/bill WA,16.05,Merchandise,Chase-2040,20251126-statements-2040-.pdf,Amazon Shopping
+2025-11-25,Amazon.com*B26NP5X02 Amzn.com/bill WA,8.75,Merchandise,Chase-2040,20251126-statements-2040-.pdf,Amazon Shopping
+2025-11-26,CHILIS MEMPHIS MEMPHIS TN,24.11,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Chili's
+2025-11-26,EXXONMOBIL MEMPHIS TN,4.05,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-11-26,WENDYS #0263 MEMPHIS TN,7.0,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Wendy's
+2025-11-26,WENDYS #0263 MEMPHIS TN,6.57,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Wendy's
+2025-11-26,AMAZON MKTPL*B234F6DO2 Amzn.com/bill WA,5.34,Merchandise,Chase-2040,20251126-statements-2040-.pdf,Amazon Shopping
+2025-11-28,CTLP*REFRESH SIPS AND BRANDON MS,2.1,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-11-28,CTLP*REFRESH SIPS AND BRANDON MS,3.85,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-11-30,AMAZON PRIME*JZ24N8Q83 Amzn.com/bill WA,8.01,Merchandise,Chase-7557,20251221-statements-7557-.pdf,Amazon Prime
+2025-11-30,KLARNA* NIKE 8445527621 OH,21.86,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Clothes (Nike)
+2025-11-30,CTLP*REFRESH SIPS AND,1.6,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-12-01,MOLINA HEALTHCAREMS 866-472-9484 CA,2.35,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-12-01,WALMART.COM 800-925-6278 AR,10.88,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-12-02,CTLP*REFRESH SIPS AND,1.6,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-12-02,PAYPAL *NETFLIX.COM 888-221-1161 CA,19.25,Services,Discover,Discover-2025-YearToDateSummary.csv,Netflix
+2025-12-03,GOOGLE *CLOUD XPBL7Z G.CO/HELPPAY#CAP1GFEU1D,0.01,Services,Discover,Discover-2025-YearToDateSummary.csv,Services
+2025-12-03,CTLP*REFRESH SIPS AND,3.85,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-12-04,WALMART.COM 8009256278,55.79,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-12-04,CTLP*REFRESH SIPS AND,2.1,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-12-04,US MOBILE WWW.USMOBILE. NY,7.95,Services,Chase-7557,20251221-statements-7557-.pdf,Phone Service
+2025-12-05,CTLP*REFRESHMENTS INC,2.25,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-12-05,WALMART.COM,4.18,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-12-05,WALMART.COM,4.48,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-12-07,PAYPAL *GOOGLE GOOGLE O 888-221-1161 CA,1.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Merchandise
+2025-12-07,PAYPAL *APPLE.COM/BILL 888-221-1161 CA,0.99,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Apple
+2025-12-08,CTLP*REFRESH SIPS AND,3.85,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-12-09,CTLP*REFRESH SIPS AND,1.6,Dining,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Vending Machine
+2025-12-09,ELEVENLABS.IO 9177203691 NY,5.0,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,API Costs (ElevenLabs)
+2025-12-14,WALMART.COM,69.47,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-12-14,EQT*AMBETTER&WELLCAREPAY 866-549-8038 MOEQT*AMBETTER&WELLCAREPAY,27.2,Services,Discover,Discover-2025-YearToDateSummary.csv,Health Insurance
+2025-12-14,SPRINT MART 4125 STARKVILLE MS,10.71,Gasoline,Discover,Discover-2025-YearToDateSummary.csv,Gas Station Indiscretion
+2025-12-14,TOGGLE INSURANCE WOODLANDHILLSCA,5.0,Services,Discover,Discover-2025-YearToDateSummary.csv,Renters Insurance
+2025-12-14,SHELL OIL 52376960036 STARKVILLE MS,6.29,Gas,Chase-7557,20251221-statements-7557-.pdf,Gas Station Indiscretion
+2025-12-14,COOK OUT STARKVILLE STARKVILLE MS,8.79,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Cook Out
+2025-12-14,CTLP*REFRESH SIPS AND BRANDON MS,1.6,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-12-15,DD *DOORDASH DOMINOS 855-431-0459 CA,24.19,Dining,Chase-7557,20251221-statements-7557-.pdf,DoorDash
+2025-12-16,WALMART.COM 8009256278,19.78,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-12-16,WALMART STORE 00112 STARKVILLE MS,28.27,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-12-16,WALMART.COM 800-925-6278 AR,5.07,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Walmart
+2025-12-16,HIGH GROUND COFFEE 178-15833699 MS,12.72,Dining,Chase-7557,20251221-statements-7557-.pdf,High Ground Coffee
+2025-12-17,HIGH GROUND COFFEE STARKVILLE MS,12.12,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,High Ground Coffee
+2025-12-18,NIKE KLARNA.COM/USDE,21.86,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Clothes (Nike)
+2025-12-19,WALMART.COM 8009256278,19.13,Merchandise,CapitalOne,CapitalOne_2025-12-24_transaction_download.csv,Walmart
+2025-12-19,MARSHALLS #1547 STARKVILLE MS,62.03,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Clothes (Marshalls)
+2025-12-19,LINKEDINPREA 99571974 MOUNTAIN VIEWCA,10.69,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,LinkedIn Premium
+2025-12-19,FIVE BELOW 6190 STARKVILLE MS,12.84,Merchandise,Discover,Discover-2025-YearToDateSummary.csv,Five Below
+2025-12-19,ALDI 82075 STARKVILLE STARKVILLE MS,9.01,Merchandise,Chase-7557,20251221-statements-7557-.pdf,Grocery (Aldi)
+2025-12-19,KROGER #381 STARKVILLE MS,7.13,Merchandise,Chase-7557,20251221-statements-7557-.pdf,Grocery (Kroger)
+2025-12-20,CTLP*REFRESH SIPS AND BRANDON MS,2.1,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-12-21,CTLP*REFRESH SIPS AND BRANDON MS,3.85,Restaurants,Discover,Discover-2025-YearToDateSummary.csv,Vending Machine
+2025-12-21,UBER *TRIP 866-576-1039 CA,15.02,Travel/ Entertainment,Discover,Discover-2025-YearToDateSummary.csv,Travel/ Entertainment
