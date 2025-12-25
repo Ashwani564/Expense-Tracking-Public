@@ -24,3 +24,17 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Personal financial data (do not commit to public repos)
+PDF/
+csv/
+overall_diagrams/
+trip_diagrams/
+financial_advice.md
+
+# Personal data - DO NOT COMMIT
+PDF/
+csv/
+overall_diagrams/
+trip_diagrams/
+financial_advice.md
